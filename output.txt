@@ -1,0 +1,8 @@
+Enter marks of the first subject: 85
+Enter marks of the second subject: 75
+Enter marks of the third subject: 93
+Enter marks of the fourth subject: 99
+Enter marks of the fifth subject: 100
+Grade: A
+
+
