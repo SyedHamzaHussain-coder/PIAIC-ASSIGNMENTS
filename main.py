@@ -8,11 +8,11 @@ avg=(subject1+subject2+subject3+subject4+subject5)/5
 
 if(avg>=90):
     print("Grade: A")
-elif(avg>=80&avg<90):
+elif(avg>=80andavg<90):
     print("Grade: B")
-elif(avg>=70&avg<80):
+elif(avg>=70andavg<80):
     print("Grade: C")
-elif(avg>=60&avg<70):
+elif(avg>=60andavg<70):
     print("Grade: D")
 
 else:
